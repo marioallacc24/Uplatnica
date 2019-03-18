@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Uplatnica"
         mc:Ignorable="d"
-        Title="NalogPrenos" Height="500" Width="815">
+        Title="NalogPrenos!" Height="500" Width="815">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="415"/>
